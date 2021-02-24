@@ -9,7 +9,7 @@ Sitemde şunları bulundurmaktayım :
 ```markdown
 Android için programlar (Odin, SamFirm, IMG unpack&repack vs.)
 Windows için programlar (EaseUS, BitDefender, Firefox vs.)
-Windows sorunları ve çözümleri (**TrustedInstaller izin vermelidir**, 1618 Hatası vs.) 
+Windows sorunları ve çözümleri (**TrustedInstaller izin vermelidir, 1618 Hatası vs.) 
 
 ```
 
@@ -22,6 +22,6 @@ Bilgisayar işine 7 yaşımda başladım ve fazla ilgim yoktu.
 ### Benimle iletişime geç!
 
 Sitede herhangi bir sorunla karşılaştıysan benimle iletişime geç.
-Bilgisayar dışı sorulara yanıt veriyorum.
+Bilgisayar dışı sorulara yanıt vermiyorum.
 
 [sfphlvn00@gmail.com](mailto:sfphlvn00@gmail.com)
