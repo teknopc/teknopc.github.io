@@ -1,12 +1,12 @@
-## Tekno PC
+## Sitem
 
-Burada neredeyse aradığınız her şey var Windows sorunları ile ilgili.
+Burada Windows ile ilgili sorunların neredeyse hepsi sitemde bulunmaktadır.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Neler bulabilirsiniz?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sitemde şunları bulundurmaktayım :
 
 ```markdown
 Syntax highlighted code block
