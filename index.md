@@ -24,4 +24,4 @@ Bilgisayar işine 7 yaşımda başladım ve fazla ilgim yoktu.
 Sitede herhangi bir sorunla karşılaştıysan benimle iletişime geç.
 Bilgisayar dışı sorulara yanıt veriyorum.
 
-[sfphlvn00@gmail.com]
+[sfphlvn00@gmail.com](mailto:sfphlvn00@gmail.com)
