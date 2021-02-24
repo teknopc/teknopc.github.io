@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Tekno PC
 
-You can use the [editor on GitHub](https://github.com/teknopc/teknopc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Burada neredeyse aradığınız her şey var Windows sorunları ile ilgili.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
